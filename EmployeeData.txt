@@ -1,0 +1,13 @@
+// This file contains data for employees of a company. The format of the data is as follows: Each row contains info for one employee. The columns heading is as following. If a heading does not apply to an employee, it will say "DNA". PhoneNum format is the same we used in class. Date format is day-month-year. day and month are 2 digits. Year is 4 digits. 
+// Headings:
+// 	firstname	lastname	SIN			PhoneNum		StartDate			EmployeeType	Salary	GrossSale	CommissionRate
+	Reza		Nezami		123334564	(604)313-2121	12-01-2012	SalaryEmployee			85000		DNA			DNA
+	Elaine		Seingfeld	132110987	(236)415-0120	25-05-2018	CommissionEmployee		DNA		245000			0.25
+	Jane		Fonda		119987653	(778)374-3145	22-11-2015	SalaryEmployee			76000		DNA			DNA
+	Ira		Padiokova	789432100	(604)454-3982	10-09-2016	SalaryCommissionEmployee	45000		65400			0.15
+	Silvia		Borales		721340540	(778)560-4024	15-08-2019	CommissionEmployee		DNA		360500			0.24
+	Ali		Moradi		430230679	(800)454-3120	26-12-2020	SalaryCommissionEmployee	29000		120000			0.12
+	Helen		Clair		506321495	(604)604-7821	05-10-2016	SalaryEmployee			74500		DNA			DNA
+	Jared		Golden		567112980	(778)454-1220	18-04-2018	CommissionEmployee		DNA		350000			0.30
+	Noor		Moosi	789434300	(604)454-3680	10-09-2020	SalaryCommissionEmployee	35000		65400			0.15
+	Poala		Rodrigues	789532700	(604)454-4902	10-09-2021	SalaryCommissionEmployee	35000		65400			0.15
